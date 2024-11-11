@@ -360,3 +360,19 @@ Subarrays are contiguous parts of an array, and different categories of subarray
    Output: [1, 1, 0]
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
+<!---LeetCode Topics End-->
