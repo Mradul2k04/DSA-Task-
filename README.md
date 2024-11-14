@@ -382,11 +382,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Mradul2k04/DSA-Task-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mradul2k04/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mradul2k04/DSA-Task-/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mradul2k04/DSA-Task-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mradul2k04/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mradul2k04/DSA-Task-/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
