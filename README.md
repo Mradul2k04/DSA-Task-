@@ -405,6 +405,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0027-remove-element](https://github.com/Mradul2k04/DSA-Task-/tree/master/0027-remove-element) |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mradul2k04/DSA-Task-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -414,6 +415,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mradul2k04/DSA-Task-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -430,12 +432,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mradul2k04/DSA-Task-/tree/master/0027-remove-element) |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Monotonic Stack
@@ -446,6 +450,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
@@ -479,6 +484,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
+| [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 ## Ordered Set
 |  |
 | ------- |
