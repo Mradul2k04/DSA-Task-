@@ -403,6 +403,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mradul2k04/DSA-Task-/tree/master/0027-remove-element) |
+| [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
@@ -489,4 +490,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
