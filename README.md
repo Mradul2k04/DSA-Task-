@@ -369,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Math
 |  |
 | ------- |
@@ -380,6 +381,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0006-zigzag-conversion](https://github.com/Mradul2k04/DSA-Task-/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
 | ------- |
@@ -457,6 +459,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/Mradul2k04/DSA-Task-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
