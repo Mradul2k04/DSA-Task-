@@ -368,6 +368,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Math
@@ -411,6 +412,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Mradul2k04/DSA-Task-/tree/master/1755-defuse-the-bomb) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -508,6 +510,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
