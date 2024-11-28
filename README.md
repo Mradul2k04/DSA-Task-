@@ -421,6 +421,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mradul2k04/DSA-Task-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
@@ -480,6 +481,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -506,6 +508,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Ordered Set
 |  |
 | ------- |
@@ -524,6 +527,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1972-rotating-the-box](https://github.com/Mradul2k04/DSA-Task-/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -543,6 +547,11 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
