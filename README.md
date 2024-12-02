@@ -387,6 +387,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
+| [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
@@ -545,6 +546,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
