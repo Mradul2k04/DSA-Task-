@@ -492,6 +492,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -563,6 +564,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -576,6 +578,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Depth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -597,4 +600,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
