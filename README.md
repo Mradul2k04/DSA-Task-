@@ -398,6 +398,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0225-implement-stack-using-queues](https://github.com/Mradul2k04/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mradul2k04/DSA-Task-/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Design
 |  |
@@ -424,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -481,6 +483,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sliding Window
 |  |
@@ -497,6 +500,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -516,6 +520,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -637,4 +642,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
