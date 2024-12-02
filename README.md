@@ -495,6 +495,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -512,6 +513,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -630,4 +632,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
