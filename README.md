@@ -420,6 +420,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -542,6 +543,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 ## Matrix
 |  |
