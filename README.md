@@ -419,6 +419,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mradul2k04/DSA-Task-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mradul2k04/DSA-Task-/tree/master/0232-implement-queue-using-stacks) |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -454,6 +455,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -518,6 +520,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1755-defuse-the-bomb](https://github.com/Mradul2k04/DSA-Task-/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Tree
@@ -576,10 +579,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mradul2k04/DSA-Task-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -679,4 +684,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0783-search-in-a-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
