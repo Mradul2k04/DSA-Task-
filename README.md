@@ -547,6 +547,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mradul2k04/DSA-Task-/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -672,6 +673,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mradul2k04/DSA-Task-/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
