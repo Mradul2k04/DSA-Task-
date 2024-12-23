@@ -413,6 +413,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mradul2k04/DSA-Task-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -464,6 +465,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -480,6 +482,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
@@ -528,6 +531,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mradul2k04/DSA-Task-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -579,10 +583,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Line Sweep
 |  |
 | ------- |
@@ -601,6 +607,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Ordered Set
 |  |
