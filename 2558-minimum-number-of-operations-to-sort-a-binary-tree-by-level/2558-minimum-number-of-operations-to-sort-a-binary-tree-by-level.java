@@ -14,60 +14,58 @@
  * }
  */
 class Solution {
+    public int minSwapsToSort(int[] arr) {
+        int n = arr.length;
+        int[][] indexedArr = new int[n][2];
+        for (int i = 0; i < n; i++) {
+            indexedArr[i][0] = arr[i];
+            indexedArr[i][1] = i;
+        }
+        Arrays.sort(indexedArr, (a, b) -> Integer.compare(a[0], b[0]));
+        boolean[] visited = new boolean[n];
+        int swaps = 0;
 
-    private int indexOf(int[] arr, int ele) {
-        for (int i = 0; i < arr.length; i++)
-            if (arr[i] == ele)
-                return i;
+        for (int i = 0; i < n; i++) {
+            if (visited[i] || indexedArr[i][1] == i) {
+                continue;
+            }
 
-        return -1;
-    }
+            int cycleSize = 0;
+            int j = i;
+            while (!visited[j]) {
+                visited[j] = true;
+                j = indexedArr[j][1];
+                cycleSize++;
+            }
 
-    private void swap(int[] arr, int i, int j) {
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
-
-    private int minSwaps(int[] arr, int N) {
-        int ans = 0;
-        int[] temp = Arrays.copyOfRange(arr, 0, N);
-        Arrays.sort(temp);
-
-        for (int i = 0; i < N; i++) {
-            if (arr[i] != temp[i]) {
-                ans++;
-                swap(arr, i, indexOf(arr, temp[i]));
+            if (cycleSize > 1) {
+                swaps += cycleSize - 1;
             }
         }
-        return ans;
+
+        return swaps;
     }
 
     public int minimumOperations(TreeNode root) {
+        if (root == null) return 0;
+
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        int count = 0;
+        int operations = 0;
 
         while (!q.isEmpty()) {
-            TreeNode curr = q.peek();
-            int size = q.size();
+            int levelSize = q.size();
+            int[] level = new int[levelSize];
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode node = q.poll();
+                level[i] = node.val;
 
-            for (int i = 0; i < size; i++) {
-                curr = q.remove();
-                if (curr.left != null)
-                    q.add(curr.left);
-
-                if (curr.right != null)
-                    q.add(curr.right);
+                if (node.left != null) q.add(node.left);
+                if (node.right != null) q.add(node.right);
             }
-
-            int[] arr = new int[q.size()];
-            int k = 0;
-            for (TreeNode num : q)
-                arr[k++] = num.val;
-
-            count += minSwaps(arr, k);
+            operations += minSwapsToSort(level);
         }
-        return count;
+
+        return operations;
     }
 }
