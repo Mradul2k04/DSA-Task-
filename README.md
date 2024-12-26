@@ -435,6 +435,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
+| [0494-target-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
@@ -627,6 +628,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
@@ -657,6 +659,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 ## Memoization
 |  |
