@@ -389,6 +389,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mradul2k04/DSA-Task-/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Mradul2k04/DSA-Task-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
