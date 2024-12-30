@@ -396,6 +396,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -450,6 +451,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mradul2k04/DSA-Task-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Mradul2k04/DSA-Task-/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mradul2k04/DSA-Task-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mradul2k04/DSA-Task-/tree/master/1917-maximum-average-pass-ratio) |
@@ -637,6 +639,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mradul2k04/DSA-Task-/tree/master/2164-two-best-non-overlapping-events) |
 ## Matrix
 |  |
