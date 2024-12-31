@@ -445,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0780-max-chunks-to-make-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mradul2k04/DSA-Task-/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -637,6 +638,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mradul2k04/DSA-Task-/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
