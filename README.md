@@ -395,6 +395,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/Mradul2k04/DSA-Task-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/2232-adding-spaces-to-a-string) |
@@ -450,6 +451,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Mradul2k04/DSA-Task-/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mradul2k04/DSA-Task-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -713,6 +715,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1524-string-matching-in-an-array](https://github.com/Mradul2k04/DSA-Task-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bucket Sort
 |  |
