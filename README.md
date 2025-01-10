@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
@@ -394,6 +395,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
+| [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/Mradul2k04/DSA-Task-/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -448,6 +450,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0780-max-chunks-to-make-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mradul2k04/DSA-Task-/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
