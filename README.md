@@ -444,6 +444,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mradul2k04/DSA-Task-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mradul2k04/DSA-Task-/tree/master/0031-next-permutation) |
 | [0198-house-robber](https://github.com/Mradul2k04/DSA-Task-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mradul2k04/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
@@ -539,6 +540,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0027-remove-element](https://github.com/Mradul2k04/DSA-Task-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Mradul2k04/DSA-Task-/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Mradul2k04/DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
