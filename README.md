@@ -380,6 +380,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Mradul2k04/DSA-Task-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -411,6 +412,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mradul2k04/DSA-Task-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Mradul2k04/DSA-Task-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -747,6 +749,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1502-construct-k-palindrome-strings](https://github.com/Mradul2k04/DSA-Task-/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Mradul2k04/DSA-Task-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
 | ------- |
