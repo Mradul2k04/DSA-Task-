@@ -517,6 +517,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2089-maximum-matrix-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -795,4 +796,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
