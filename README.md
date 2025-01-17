@@ -488,6 +488,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
+| [2792-neighboring-bitwise-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mradul2k04/DSA-Task-/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -802,6 +803,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
