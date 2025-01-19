@@ -1,54 +1,48 @@
-public class Solution {
+import java.util.PriorityQueue;
 
-    int[] dx = {0, 0, 1, -1};
-    int[] dy = {1, -1, 0, 0};
+class Solution {
+    public int trapRainWater(int[][] height) {
+        int n = height.length;
+        int m = height[0].length;
 
-    List<int[]>[] g;
-    int start;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        boolean[][] vis = new boolean[n][m];
 
-    private int[] dijkstra() {
-        int[] dist = new int[g.length];
-        Arrays.fill(dist, Integer.MAX_VALUE / 2);
-        dist[start] = 0;
-        TreeSet<int[]> tree = new TreeSet<>((u, v) -> u[1] == v[1] ? u[0] - v[0] : u[1] - v[1]);
-        tree.add(new int[]{start, 0});
-        while (!tree.isEmpty()) {
-            int u = tree.first()[0], d = tree.pollFirst()[1];
-            for (int[] e : g[u]) {
-                int v = e[0], w = e[1];
-                if (Math.max(d, w) < dist[v]) {
-                    tree.remove(new int[]{v, dist[v]});
-                    dist[v] = Math.max(d, w);
-                    tree.add(new int[]{v, dist[v]});
+        // Add first and last column
+        for (int i = 0; i < n; i++) {
+            vis[i][0] = true;
+            vis[i][m - 1] = true;
+            pq.offer(new int[]{height[i][0], i, 0});
+            pq.offer(new int[]{height[i][m - 1], i, m - 1});
+        }
+
+        // Add first and last row
+        for (int i = 0; i < m; i++) {
+            vis[0][i] = true;
+            vis[n - 1][i] = true;
+            pq.offer(new int[]{height[0][i], 0, i});
+            pq.offer(new int[]{height[n - 1][i], n - 1, i});
+        }
+
+        int ans = 0;
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, -1, 0, 1};
+
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int h = curr[0], r = curr[1], c = curr[2];
+
+            for (int i = 0; i < 4; i++) {
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m && !vis[nr][nc]) {
+                    ans += Math.max(0, h - height[nr][nc]);
+                    pq.offer(new int[]{Math.max(h, height[nr][nc]), nr, nc});
+                    vis[nr][nc] = true;
                 }
             }
         }
-        return dist;
-    }
-
-    public int trapRainWater(int[][] a) {
-        if (a == null || a.length == 0 || a[0].length == 0) return 0;
-        int r = a.length, c = a[0].length;
-
-        start = r * c;
-        g = new List[r * c + 1];
-        for (int i = 0; i < g.length; i++) g[i] = new ArrayList<>();
-        for (int i = 0; i < r; i++)
-            for (int j = 0; j < c; j++) {
-                if (i == 0 || i == r - 1 || j == 0 || j == c - 1) g[start].add(new int[]{i * c + j, 0});
-                for (int k = 0; k < 4; k++) {
-                    int x = i + dx[k], y = j + dy[k];
-                    if (x >= 0 && x < r && y >= 0 && y < c) g[i * c + j].add(new int[]{x * c + y, a[i][j]});
-                }
-            }
-
-        int ans = 0;
-        int[] dist = dijkstra();
-        for (int i = 0; i < r; i++)
-            for (int j = 0; j < c; j++) {
-                int cb = dist[i * c + j];
-                if (cb > a[i][j]) ans += cb - a[i][j];
-            }
 
         return ans;
     }
