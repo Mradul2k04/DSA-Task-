@@ -464,6 +464,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Mradul2k04/DSA-Task-/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Mradul2k04/DSA-Task-/tree/master/1524-string-matching-in-an-array) |
@@ -601,6 +602,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Mradul2k04/DSA-Task-/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -684,6 +686,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0407-trapping-rain-water-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Mradul2k04/DSA-Task-/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Mradul2k04/DSA-Task-/tree/master/1972-rotating-the-box) |
@@ -741,6 +744,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mradul2k04/DSA-Task-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mradul2k04/DSA-Task-/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -765,6 +769,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mradul2k04/DSA-Task-/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -779,6 +784,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0200-number-of-islands](https://github.com/Mradul2k04/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
+| [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
