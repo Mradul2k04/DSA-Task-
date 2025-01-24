@@ -601,6 +601,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mradul2k04/DSA-Task-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -720,6 +721,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -743,6 +745,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mradul2k04/DSA-Task-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mradul2k04/DSA-Task-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -827,4 +830,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
