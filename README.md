@@ -459,6 +459,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0780-max-chunks-to-make-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mradul2k04/DSA-Task-/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -606,6 +607,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
+| [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Mradul2k04/DSA-Task-/tree/master/1876-map-of-highest-peak) |
@@ -689,6 +691,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0200-number-of-islands](https://github.com/Mradul2k04/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mradul2k04/DSA-Task-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -752,6 +755,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0684-redundant-connection](https://github.com/Mradul2k04/DSA-Task-/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mradul2k04/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/Mradul2k04/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2201-valid-arrangement-of-pairs) |
@@ -795,6 +799,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Mradul2k04/DSA-Task-/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Mradul2k04/DSA-Task-/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search Tree
