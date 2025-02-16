@@ -391,6 +391,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -742,6 +743,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
