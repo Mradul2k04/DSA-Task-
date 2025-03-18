@@ -504,6 +504,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -598,6 +599,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/Mradul2k04/DSA-Task-/tree/master/1755-defuse-the-bomb) |
+| [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mradul2k04/DSA-Task-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Mradul2k04/DSA-Task-/tree/master/2868-continuous-subarrays) |
@@ -877,6 +879,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2792-neighboring-bitwise-xor) |
