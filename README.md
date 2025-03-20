@@ -520,6 +520,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mradul2k04/DSA-Task-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mradul2k04/DSA-Task-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -775,6 +776,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Mradul2k04/DSA-Task-/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mradul2k04/DSA-Task-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mradul2k04/DSA-Task-/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
@@ -844,6 +846,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0854-making-a-large-island](https://github.com/Mradul2k04/DSA-Task-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Mradul2k04/DSA-Task-/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mradul2k04/DSA-Task-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -885,6 +888,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mradul2k04/DSA-Task-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
