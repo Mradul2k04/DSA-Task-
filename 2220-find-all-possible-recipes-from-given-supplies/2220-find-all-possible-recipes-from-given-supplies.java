@@ -1,27 +1,37 @@
 class Solution {
-    public List<String> findAllRecipes(String[] recipes, List<List<String>> ingredients, String[] supplies) {
-        List<String> output = new ArrayList<>();
-        Set<String> set = new HashSet<>();
-        for (String n : supplies) set.add(n);
-        boolean addedNewRecipe = true;
-        while (addedNewRecipe) { 
-            addedNewRecipe = false;
-            for (int i = 0; i < recipes.length; i++) {
-                if (set.contains(recipes[i])) continue; 
-                boolean canMake = true;
-                for (String ing : ingredients.get(i)) {
-                    if (!set.contains(ing)) {
-                        canMake = false;
-                        break;
-                    }
-                }         
-                if (canMake) {
-                    output.add(recipes[i]);
-                    set.add(recipes[i]);
-                    addedNewRecipe = true;
-                }
-            }
+  public List<String> findAllRecipes(String[] recipes, List<List<String>> ingredients,
+                                     String[] supplies) {
+    List<String> ans = new ArrayList<>();
+    Set<String> suppliesSet = new HashSet<>();
+    for (final String supply : supplies)
+      suppliesSet.add(supply);
+    Map<String, List<String>> graph = new HashMap<>();
+    Map<String, Integer> inDegrees = new HashMap<>();
+
+    for (int i = 0; i < recipes.length; ++i)
+      for (final String ingredient : ingredients.get(i))
+        if (!suppliesSet.contains(ingredient)) {
+          graph.putIfAbsent(ingredient, new ArrayList<>());
+          graph.get(ingredient).add(recipes[i]);
+          inDegrees.merge(recipes[i], 1, Integer::sum);
         }
-        return output;
+
+    Queue<String> q = Arrays.stream(recipes)
+                          .filter(recipe -> inDegrees.getOrDefault(recipe, 0) == 0)
+                          .collect(Collectors.toCollection(ArrayDeque::new));
+
+    while (!q.isEmpty()) {
+      final String u = q.poll();
+      ans.add(u);
+      if (!graph.containsKey(u))
+        continue;
+      for (final String v : graph.get(u)) {
+        inDegrees.merge(v, -1, Integer::sum);
+        if (inDegrees.get(v) == 0)
+          q.offer(v);
+      }
     }
+
+    return ans;
+  }
 }
