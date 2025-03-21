@@ -391,6 +391,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
+| [0371-sum-of-two-integers](https://github.com/Mradul2k04/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -883,6 +884,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Mradul2k04/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
