@@ -666,6 +666,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Mradul2k04/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/Mradul2k04/DSA-Task-/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -895,6 +896,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Mradul2k04/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Mradul2k04/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
