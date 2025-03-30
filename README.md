@@ -369,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/Mradul2k04/DSA-Task-/tree/master/0768-partition-labels) |
 | [0833-bus-routes](https://github.com/Mradul2k04/DSA-Task-/tree/master/0833-bus-routes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mradul2k04/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
@@ -410,6 +411,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0020-valid-parentheses](https://github.com/Mradul2k04/DSA-Task-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0399-evaluate-division](https://github.com/Mradul2k04/DSA-Task-/tree/master/0399-evaluate-division) |
+| [0768-partition-labels](https://github.com/Mradul2k04/DSA-Task-/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Mradul2k04/DSA-Task-/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mradul2k04/DSA-Task-/tree/master/1502-construct-k-palindrome-strings) |
@@ -556,6 +558,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Mradul2k04/DSA-Task-/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mradul2k04/DSA-Task-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mradul2k04/DSA-Task-/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mradul2k04/DSA-Task-/tree/master/1917-maximum-average-pass-ratio) |
@@ -594,6 +597,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Mradul2k04/DSA-Task-/tree/master/0031-next-permutation) |
 | [0658-find-k-closest-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/Mradul2k04/DSA-Task-/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Mradul2k04/DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mradul2k04/DSA-Task-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mradul2k04/DSA-Task-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
