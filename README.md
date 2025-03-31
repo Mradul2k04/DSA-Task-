@@ -520,6 +520,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mradul2k04/DSA-Task-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mradul2k04/DSA-Task-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Mradul2k04/DSA-Task-/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mradul2k04/DSA-Task-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -567,6 +568,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Mradul2k04/DSA-Task-/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mradul2k04/DSA-Task-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
@@ -585,6 +587,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2164-two-best-non-overlapping-events](https://github.com/Mradul2k04/DSA-Task-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mradul2k04/DSA-Task-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mradul2k04/DSA-Task-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2681-put-marbles-in-bags](https://github.com/Mradul2k04/DSA-Task-/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Mradul2k04/DSA-Task-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -714,6 +717,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2300-construct-string-with-repeat-limit](https://github.com/Mradul2k04/DSA-Task-/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Mradul2k04/DSA-Task-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Mradul2k04/DSA-Task-/tree/master/2434-design-a-number-container-system) |
+| [2681-put-marbles-in-bags](https://github.com/Mradul2k04/DSA-Task-/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mradul2k04/DSA-Task-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mradul2k04/DSA-Task-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
