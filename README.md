@@ -511,6 +511,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mradul2k04/DSA-Task-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mradul2k04/DSA-Task-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mradul2k04/DSA-Task-/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Mradul2k04/DSA-Task-/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Mradul2k04/DSA-Task-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -746,6 +747,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mradul2k04/DSA-Task-/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mradul2k04/DSA-Task-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mradul2k04/DSA-Task-/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/Mradul2k04/DSA-Task-/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
 | ------- |
