@@ -396,6 +396,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/Mradul2k04/DSA-Task-/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mradul2k04/DSA-Task-/tree/master/2716-prime-subtraction-operation) |
@@ -505,6 +506,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mradul2k04/DSA-Task-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mradul2k04/DSA-Task-/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/Mradul2k04/DSA-Task-/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mradul2k04/DSA-Task-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mradul2k04/DSA-Task-/tree/master/2164-two-best-non-overlapping-events) |
@@ -787,6 +789,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mradul2k04/DSA-Task-/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
@@ -795,6 +798,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0494-target-sum](https://github.com/Mradul2k04/DSA-Task-/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/Mradul2k04/DSA-Task-/tree/master/0787-sliding-puzzle) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mradul2k04/DSA-Task-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mradul2k04/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
@@ -929,6 +933,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mradul2k04/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Mradul2k04/DSA-Task-/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mradul2k04/DSA-Task-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Mradul2k04/DSA-Task-/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Mradul2k04/DSA-Task-/tree/master/2509-minimize-xor) |
@@ -946,4 +951,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mradul2k04/DSA-Task-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mradul2k04/DSA-Task-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mradul2k04/DSA-Task-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Mradul2k04/DSA-Task-/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
